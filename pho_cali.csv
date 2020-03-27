@@ -1,0 +1,24 @@
+SectionLetter,MenuItemNo,MenuItemNm,MenuItemDescription,Price
+A,1,Banh Hoi Bo Nuong,"Grilled beef with thin rice noodles, light vegetables, served with water and rice paper as a D.I.Y appetizer ",$11.95 
+A,2,Banh Hoi Thit Heo Nuong,"Grilled pork with thin rice noodles, light vegetables, served with 6 pieces of rice paper ",$11.95 
+A,3,Chao Tom Dac San Cua Dollar,rice paper roll with shrimp,$12.95 
+A,4,Nem Nuong Dac Biet,rice paper roll with grounded pork,$11.95 
+A,5,Cha Gio,Egg rolls,$4.25 
+A,6,Goi Cuon,spring rolls,$4.95 
+A,7,Goi Tom Thit,pork and cabbage salad,$11.95 
+A,9,Goi Tom,shrimp and cabbage salad,$11.95 
+A,10,Boi Tai Chanh,rare beef salad,$11.95 
+A,11,Banh Xea,"Vietnamese pancake, made with shrimp, pork, bean spourts cooked inside dollar's ""pancake"" batter",$9.95 
+A,12,Bo Luc Lac,Cubed seasoned steak served with a side of french fries or brought to you on a grill.,$12.95 
+A,13,Bo Nuong Xea,"Leamongrass, onions and peppers, wrapped inside with beef slices.",$8.95 
+A,14,Mi Thit Bo Nuong,Vietnamese grilled beef sandwich.,$4.75 
+A,15,Mi Thit Heo Nuong,Vietnamese grilled pork sandwich.,$4.75 
+A,16,Chim Cut Roti,"Spicy, deep fried quail birds, served with lettuce, cucumbers, tomatoes, and carrots.  One order comes with eight pieces.",$11.95 
+A,17,Canh Ga Nuoc Mam,Vietnamese style spicy checkin wings.  One order comes with eight pieces.,$8.95 
+PH,18,Pho Xe Lua Dac Biet,"Extra large Dollar's specialty with rice noodles, thin rare beef slices, well done brisket, tendon, tripe, flank and sliced meatballs.",$11.95 
+PH,19,Pho Dac Biet,"Cali's specialty with rice noodles, thin rare beef slices, well-done brisket, tendon, tripe, flank and sliced meatballs.",$9.95 
+PH,20,Pho Tai,Beef noodle soup with rare beef slices.,$8.95 
+PH,21,Pho Tai Chin,Beef noodle soup with rare beef slices and well-done brisket.,$8.95 
+PH,22,Pho Chin,Beef noddle soup with well-done brisket.,$8.95 
+PH,23,Pho Bo Vien,Beef noodle soup with sliced meatballs.,$8.95 
+PH,24,Pho Tai Bo Vien,Beef noodle soup with thin rare beef slices and sliced meatballs.,$8.95 
